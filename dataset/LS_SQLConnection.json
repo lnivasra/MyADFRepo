@@ -1,0 +1,17 @@
+{
+	"name": "LS_SQLConnection",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "LS_SQLdatatoTarget",
+			"type": "LinkedServiceReference"
+		},
+		"annotations": [],
+		"type": "AzureSqlTable",
+		"schema": [],
+		"typeProperties": {
+			"schema": "dbo",
+			"table": ""
+		}
+	},
+	"type": "Microsoft.DataFactory/factories/datasets"
+}

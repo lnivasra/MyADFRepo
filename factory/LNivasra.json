@@ -1,0 +1,9 @@
+{
+	"name": "LNivasra",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "2420e6bd-6647-418f-8249-3c413f0a20f7",
+		"tenantId": "25abbaac-a60a-4dc4-abd2-66d153b7622a"
+	}
+}
